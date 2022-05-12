@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: Owen Jacobs
+author: odjacobs
+
+github_username: odjacobs
+show_excerpts: true
+theme: minima
